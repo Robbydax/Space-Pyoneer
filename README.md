@@ -1,3 +1,3 @@
 # Space-Pyoneer
 
-Python Game created using the Pygame Library
+Python Game. Made with pygame.
